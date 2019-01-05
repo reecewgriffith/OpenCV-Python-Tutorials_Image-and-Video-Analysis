@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f07cd1fa-e2f2-4aee-91ea-03c605ee3267" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +12,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/01_Intro_and_Loading_Images/code.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="32" />
+            <state>
+              <caret column="98" selection-start-column="98" selection-end-column="98" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/tut.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="83" selection-start-column="71" selection-end-column="83" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -25,36 +37,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/01_Intro_and_Loading_Images/bee_gray.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/01_Intro_and_Loading_Images/bee.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/02_Loading_Video_Source/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/04_Image_Operations/bee.jpg">
+        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/3D-Matplotlib.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/03_Drawing_and_Writing_on_Image/code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="270">
               <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -64,15 +54,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/03_Drawing_and_Writing_on_Image/bee_draw.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/04_Image_Operations/code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="44">
+              <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="24" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -80,20 +65,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/jet.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/03_Drawing_and_Writing_on_Image/bee.jpg">
+        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/cloud.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/mainlogo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/mainsvmimage.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -118,14 +106,20 @@
         <option value="$PROJECT_DIR$/Image_and_Video_Analysis/03_Drawing_and_Writing_on_Image/code.py" />
         <option value="$PROJECT_DIR$/Image_and_Video_Analysis/04_Image_Operations/code.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/tut.py" />
+        <option value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/code.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="x" value="46" />
+    <option name="y" value="23" />
+    <option name="width" value="1234" />
+    <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,6 +144,13 @@
               <item name="Image_and_Video_Analysis" type="462c0819:PsiDirectoryNode" />
               <item name="Tutorials" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="openCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="openCV" type="462c0819:PsiDirectoryNode" />
+              <item name="Image_and_Video_Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="Tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Image_Arithmetics_and_Logic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,13 +162,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/04_Image_Operations" />
-      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/03_Drawing_and_Writing_on_Image" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic" />
       <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials" />
       <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/00_Introduction" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic" />
+      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/04_Image_Operations" />
+      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/03_Drawing_and_Writing_on_Image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -182,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.code (4)">
+  <component name="RunManager" selected="Python.tut">
     <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="openCV" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,27 +199,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_and_Video_Analysis/02_Loading_Video_Source/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="openCV" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_and_Video_Analysis/01_Intro_and_Loading_Images" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_and_Video_Analysis/01_Intro_and_Loading_Images/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="code (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="openCV" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +257,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_and_Video_Analysis/00_Introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_and_Video_Analysis/00_Introduction/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tut" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="openCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/tut.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tut" />
+        <item itemvalue="Python.code (5)" />
         <item itemvalue="Python.code (4)" />
         <item itemvalue="Python.code (3)" />
         <item itemvalue="Python.code (1)" />
-        <item itemvalue="Python.code (2)" />
-        <item itemvalue="Python.code" />
       </list>
     </recent_temporary>
   </component>
@@ -315,32 +318,26 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12549643" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13979349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/01_Intro_and_Loading_Images/bee_gray.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/01_Intro_and_Loading_Images/bee.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/01_Intro_and_Loading_Images/code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -351,21 +348,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/03_Drawing_and_Writing_on_Image/bee.jpg">
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/01_Intro_and_Loading_Images/bee_gray.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/03_Drawing_and_Writing_on_Image/bee_draw.jpg">
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/01_Intro_and_Loading_Images/bee.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/03_Drawing_and_Writing_on_Image/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/02_Loading_Video_Source/code.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -380,23 +367,95 @@
     <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/04_Image_Operations/bee.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/03_Drawing_and_Writing_on_Image/bee_draw.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/03_Drawing_and_Writing_on_Image/bee.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/flower.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/spider.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/cherry.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/bee.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/bird.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/flower.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/03_Drawing_and_Writing_on_Image/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/04_Image_Operations/code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="44">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="24" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/jhu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/3D-Matplotlib.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/cloud.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/mainlogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/mainsvmimage.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/jet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/tut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="83" selection-start-column="71" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="98" selection-start-column="98" selection-end-column="98" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
