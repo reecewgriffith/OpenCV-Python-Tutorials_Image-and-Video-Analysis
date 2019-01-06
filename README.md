@@ -2,9 +2,9 @@
 
 ## Projects
 ### 1. Pending development...
-- note 1
-- note 2
-- etc.
+- greenscreen where you can use your own image
+- photoeditor or photobooth
+- ?
 
 
 ## Tutorials
