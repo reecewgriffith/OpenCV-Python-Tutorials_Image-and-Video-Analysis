@@ -20,6 +20,7 @@ cv2.imshow('adaptive gaus', gaus)
 cv2.imshow('otsu', otsu)
 
 #SPIDER
+'''
 img2_i = cv2.imread('spider.jpg')
 img2 = cv2.resize(img2_i, (0,0), fx=0.5, fy=0.5)
 
@@ -37,6 +38,7 @@ cv2.imshow('binary', threshold4)
 cv2.imshow('gray binary', threshold5)
 cv2.imshow('adaptive gaus', gaus2)
 cv2.imshow('otsu', otsu2)
+'''
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
