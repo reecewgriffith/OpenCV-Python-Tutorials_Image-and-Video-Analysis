@@ -17,6 +17,7 @@ matches = bf.match(desc1, desc2)
 #sorting based on likeliness of match
 matches = sorted(matches, key = lambda x:x.distance)
 
-img3 = cv2.drawMatches(img1, kp1, img2, kp2, matches[:10], None, flags=2)
+img3 = cv2.drawMatches(img1, kp1, img2, kp2, matches[:25], None, flags=2)
+cv2.imwrite('out.jpg', img3)
 plt.imshow(img3)
 plt.show()
