@@ -11,95 +11,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/code.py">
+        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/14_Feature_Matching/snake.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+            <state relative-caret-position="90">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#32#42#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/img_gray.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/img_gray_inv.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/03_Drawing_and_Writing_on_Image/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/09_Morphological_Transformations/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/08_Blurring_and_Smoothing/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/07_Color_Filtering/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/06_Thresholding/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/chess_res.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/chess.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -132,11 +52,18 @@
         <option value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/10_Gradients_and_Edge_Detection/code.py" />
         <option value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/11_Template_Matching/code.py" />
         <option value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/06_Thresholding/code.py" />
+        <option value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/Grabcut_Foreground_Extraction/code.py" />
         <option value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/code.py" />
+        <option value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/cofe.py" />
+        <option value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/07_Color_Filtering/code.py" />
+        <option value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/07_Color_Filtering/snake.py" />
+        <option value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/12_Grabcut_Foreground_Extraction/snake.py" />
+        <option value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/13_Corner_Detection/snake.py" />
+        <option value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/14_Feature_Matching/snake.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="638" />
     <option name="height" value="800" />
   </component>
@@ -159,7 +86,7 @@
             <path>
               <item name="openCV" type="b2602c69:ProjectViewProjectNode" />
               <item name="openCV_Image_and_Video_Analysis_Tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="11_Template_Matching" type="462c0819:PsiDirectoryNode" />
+              <item name="14_Feature_Matching" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,21 +96,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/12_Grabcut_Foreground_Extraction" />
       <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/10_Gradients_and_Edge_Detection" />
       <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic" />
       <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/04_Image_Operations" />
       <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/03_Drawing_and_Writing_on_Image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/11_Template_Matching" />
-      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/10_Gradients_and_Edge_Detection" />
-      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/06_Thresholding" />
-      <recent name="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic" />
+      <recent name="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/14_Feature_Matching" />
+      <recent name="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/13_Corner_Detection" />
+      <recent name="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/07_Color_Filtering" />
+      <recent name="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/07_Color_Filtering/snake.py" />
+      <recent name="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/08_Blurring_and_Smoothing" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -198,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.code (3)">
+  <component name="RunManager" selected="Python.snake (2)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="openCV_Image_and_Video_Analysis_Tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,48 +148,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="openCV_Image_and_Video_Analysis_Tutorials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/07_Color_Filtering" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/07_Color_Filtering/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="openCV_Image_and_Video_Analysis_Tutorials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/06_Thresholding" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/06_Thresholding/code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="code (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="openCV_Image_and_Video_Analysis_Tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/snake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="code (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="openCV_Image_and_Video_Analysis_Tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/10_Gradients_and_Edge_Detection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/Grabcut_Foreground_Extraction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/10_Gradients_and_Edge_Detection/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/Grabcut_Foreground_Extraction/snake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="snake (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="openCV_Image_and_Video_Analysis_Tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,11 +198,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/09_Morphological_Transformations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/13_Corner_Detection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/09_Morphological_Transformations/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/13_Corner_Detection/snake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snake (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="openCV_Image_and_Video_Analysis_Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/14_Feature_Matching" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/14_Feature_Matching/snake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="openCV_Image_and_Video_Analysis_Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/12_Grabcut_Foreground_Extraction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/12_Grabcut_Foreground_Extraction/snake.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.snake (2)" />
+        <item itemvalue="Python.snake (1)" />
+        <item itemvalue="Python.snake" />
+        <item itemvalue="Python.code (5)" />
         <item itemvalue="Python.code (3)" />
-        <item itemvalue="Python.code (2)" />
-        <item itemvalue="Python.code" />
-        <item itemvalue="Python.code (1)" />
-        <item itemvalue="Python.code (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -435,39 +363,66 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23034154" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19221604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20684932" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20684932" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32876712" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19286872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20684932" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/06_Thresholding/code.py</url>
+          <url>file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/06_Thresholding/snake.py</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/code.py</url>
+          <url>file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/snake.py</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -475,12 +430,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/01_Intro_and_Loading_Images/bee_gray.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/01_Intro_and_Loading_Images/bee.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/04_Image_Operations/bee.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -497,7 +446,7 @@
     <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/bird.png" />
     <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/flower.png" />
     <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/05_Image_Arithmetics_and_Logic/jhu.png" />
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/05_Image_Arithmetics_and_Logic/code.py">
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/05_Image_Arithmetics_and_Logic/snake.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="98" selection-start-column="98" selection-end-column="98" />
@@ -514,7 +463,7 @@
     <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/05_Image_Arithmetics_and_Logic/3D-Matplotlib.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/04_Image_Operations/code.py">
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/04_Image_Operations/snake.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="24" />
@@ -536,7 +485,7 @@
     <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/05_Image_Arithmetics_and_Logic/mainsvmimage.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/01_Intro_and_Loading_Images/code.py">
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/01_Intro_and_Loading_Images/snake.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="32" />
@@ -565,7 +514,7 @@
     <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/11_Template_Matching/ard.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/02_Loading_Video_Source/code.py">
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/02_Loading_Video_Source/snake.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="13" />
@@ -578,53 +527,13 @@
     <entry file="file://$PROJECT_DIR$/Image_and_Video_Analysis/Tutorials/11_Template_Matching/out.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/10_Gradients_and_Edge_Detection/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/pawn.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/07_Color_Filtering/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/08_Blurring_and_Smoothing/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/09_Morphological_Transformations/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/06_Thresholding/code.py">
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/06_Thresholding/snake.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="553">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -634,31 +543,129 @@
     <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/img_gray_inv.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/03_Drawing_and_Writing_on_Image/code.py">
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/chess.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/img_gray.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/Grabcut_Foreground_Extraction/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/10_Gradients_and_Edge_Detection/snake.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/chess_res.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/09_Morphological_Transformations/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/08_Blurring_and_Smoothing/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/07_Color_Filtering/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/01_Intro_and_Loading_Images/bee.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/03_Drawing_and_Writing_on_Image/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="52" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/chess.jpg">
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/12_Grabcut_Foreground_Extraction/bee.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/chess_res.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/img_gray.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/code.py">
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/11_Template_Matching/snake.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+        <state relative-caret-position="442">
+          <caret line="37" selection-start-line="37" selection-end-line="37" selection-end-column="37" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/12_Grabcut_Foreground_Extraction/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/13_Corner_Detection/out.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/13_Corner_Detection/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/14_Feature_Matching/kr2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/14_Feature_Matching/kr1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/12_Grabcut_Foreground_Extraction/bee_out.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/13_Corner_Detection/sample_out.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/13_Corner_Detection/sample.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/13_Corner_Detection/board.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../openCV_Image_and_Video_Analysis_Tutorials/14_Feature_Matching/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#32#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
